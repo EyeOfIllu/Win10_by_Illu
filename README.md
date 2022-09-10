@@ -1,4 +1,4 @@
-# Win10_by_Illu
+# Win10 by Illu
 System Windows 10 przerobiony i zoptymalizowany przeze mnie :) 
 
 # Idea
