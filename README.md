@@ -2,7 +2,7 @@
 System Windows 10 przerobiony i zoptymalizowany przeze mnie :) 
 
 # Idea
-Chcę stworzyć systemy jak najbardziej zoptymalizowane, zautomatyzowane i chroniące prywatności przy jak najmniejszej stracie funkcjonalności, skierowany do typowych użytkowników komputerów z systemem od firmy Microsoft. 
+Moim celem jest tworzenie systemów jak najbardziej zoptymalizowanych, zautomatyzowanych i chroniących prywatność przy jak najmniejszej stracie funkcjonalności, skierowanych do typowych użytkowników komputerów z systemem od firmy Microsoft. 
 
 # Aktualne funkcjonalności
 - instalacja systemu w 4 krokach
