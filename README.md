@@ -14,7 +14,7 @@ Chcę stworzyć systemy jak najbardziej zoptymalizowane, zautomatyzowane i chron
 - zmniejszono rozmiar systemu dzięki usunięciu wielu aplikacji
 
 # Pobieranie
-Mozna albo pobrać gotowy obraz ISO gotowy do wypalenia na plyte/pendrive'a albo pobrac folder z okreslona wersja systemu z repozytorium i na przykład w programie NTLite utworzyc obraz ISO.
+Mozna albo pobrać gotowy obraz ISO gotowy do wypalenia na plyte/pendrive'a albo pobrac folder z okreslona wersja systemu z repozytorium i stworzyc plik ISO we wlasnym zakresie, na przykład przy pomocy programu NTLite.
 Link do pobrania gotowych obrazów ISO
 https://mega.nz/folder/KYcC2QZQ#hF92K3GVSZ6nSP75hTNxsA
 
