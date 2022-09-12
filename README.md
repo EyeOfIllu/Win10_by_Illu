@@ -1,5 +1,5 @@
 # Win10 by Illu
-System Windows 10 zmodyfikowany i zoptymalizowany przeze mnie :) 
+Zmodyfikowany i zoptymalizowany system Windows 10
 
 # Idea
 Moim celem jest tworzenie systemów jak najbardziej zoptymalizowanych, zautomatyzowanych i chroniących prywatność przy jak najmniejszej stracie funkcjonalności, skierowanych do typowych użytkowników komputerów z systemem od firmy Microsoft. 
