@@ -25,3 +25,5 @@ https://mega.nz/folder/KYcC2QZQ#hF92K3GVSZ6nSP75hTNxsA
 W najblizszej przyszlosci nie przewiduje takiej mozliwosci ze wzgledu na zbyt niskie zapotrzebowanie na taka wersje systemu.
 ### Czy jest w takim razie mozliwosc uzyskania spersonalizowanego instalatora? 
 Oczywiscie, ze jest. Jedna z mozliwosci jest probowanie wlasnych sil lub wyslanie do mnie prosby o stworzenie takiego instalatora. Nalezy miec jednak na uwadze, ze kazda taka prosba powinna byc poprzedzona uzasadnieniem, a takze obietnica wynagrodzenia. 
+### Czy system po instalacji bedzie automatycznie aktywowany?
+Nie. W systemie ktorzy przygotowuję nie uswiadczysz zadnych aktywatorow, ani crackow, aby aktywowac system. Aktywacja systemow lezy w zakresie samego uzytkownika. Sa dwie mozliwosci kiedy system bedzie automatyczne aktywowany po instalacji. Jesli komputer na ktorym bedzie zainstalowany posiada juz zapisany klucz do systemu w plycie glownej. Lecz ta opcja mozne nie dzialac w pelni na moim systemie. Druga mozliwosc jest wtedy, gdy uzytkownik zaloguje sie do konta Microsoft i za jego pomoca bedzie podjeta proba automatycznej aktywacji systemu.
