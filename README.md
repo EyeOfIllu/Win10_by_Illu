@@ -12,19 +12,19 @@ Moim celem jest tworzenie systemów jak najbardziej zoptymalizowanych, zautomaty
 - zablokowane wysyłanie danych o użytkowniku na serwery Microsoftu
 - uruchomiono wiele funkcji ułatwiających pracę z systemem tuż po instalacji
 - zmniejszono rozmiar systemu dzięki usunięciu wielu aplikacji
-
+<!-- 
 # Pobieranie
 Mozna albo pobrać gotowy obraz ISO gotowy do wypalenia na plyte/pendrive'a albo pobrac folder z okreslona wersja systemu z repozytorium i stworzyc plik ISO we wlasnym zakresie, na przykład przy pomocy programu NTLite.
 
 Link do pobrania gotowych obrazów ISO:
 
 https://mega.nz/folder/KYcC2QZQ#hF92K3GVSZ6nSP75hTNxsA
-
+-->
 # FAQ
 ### Czy bedzie 32-bitowy system? 
 W najblizszej przyszlosci nie przewiduje takiej mozliwosci ze wzgledu na zbyt niskie zapotrzebowanie na taka wersje systemu.
 <!-- This is commented out. -->
-<!-- This is commented out. 
+<!--  
 ### Czy jest w takim razie mozliwosc uzyskania spersonalizowanego instalatora? 
 Oczywiscie, ze jest. Jedna z mozliwosci jest probowanie wlasnych sil lub wyslanie do mnie prosby o stworzenie takiego instalatora. Nalezy miec jednak na uwadze, ze kazda taka prosba powinna byc poprzedzona uzasadnieniem, a takze obietnica wynagrodzenia. 
 -->
