@@ -29,3 +29,4 @@ Oczywiscie, ze jest. Jedna z mozliwosci jest probowanie wlasnych sil lub wyslani
 Nie. W systemie ktorzy przygotowuję nie uswiadczysz zadnych aktywatorow, ani crackow, aby aktywowac system. Aktywacja systemow lezy w zakresie samego uzytkownika. Sa dwie mozliwosci kiedy system bedzie automatyczne aktywowany po instalacji. Jesli komputer na ktorym bedzie zainstalowany posiada juz zapisany klucz do systemu w plycie glownej. Lecz ta opcja mozne nie dzialac w pelni na moim systemie. Druga mozliwosc jest wtedy, gdy uzytkownik zaloguje sie do konta Microsoft i za jego pomoca bedzie podjeta proba automatycznej aktywacji systemu.
 
 Wszystkie modyfikacje są realizować myślą by, nie ma on wyszydzać, ani wyśmiewać produktów ani firmy Microsoft. 
+<!-- This is commented out. -->
