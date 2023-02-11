@@ -8,7 +8,7 @@ Moim celem jest tworzenie systemów jak najbardziej zoptymalizowanych, zautomaty
 - prosta instalacja systemu w 4 krokach
 - automatyczna instalacja bibliotek Visual C++ Runtimes (aż do 2020 roku)
 - łatwe wyłączenie Windows Update i Windows Defender dzięki programom zawartych w systemie
-- wyłączone usługi szpiegujące i procesy
+- wyłączone procesy i usługi szpiegujące
 - zablokowane wysyłanie danych o użytkowniku na serwery Microsoftu
 - uruchomiono wiele funkcji ułatwiających pracę z systemem tuż po instalacji
 - zmniejszono rozmiar systemu dzięki usunięciu wielu aplikacji
