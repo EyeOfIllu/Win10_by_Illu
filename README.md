@@ -7,7 +7,7 @@ Moim celem jest tworzenie systemów jak najbardziej zoptymalizowanych, zautomaty
 # Aktualne funkcjonalności
 - prosta instalacja systemu w 4 krokach
 - automatyczna instalacja bibliotek Visual C++ Runtimes (aż do 2020 roku)
-- łatwe wyłączenie Windows Update i Defender dzięki programom zawartych w systemie
+- łatwe wyłączenie Windows Update i Windows Defender dzięki programom zawartych w systemie
 - wyłączone usługi szpiegujące i procesy
 - zablokowane wysyłanie danych o użytkowniku na serwery Microsoftu
 - uruchomiono wiele funkcji ułatwiających pracę z systemem tuż po instalacji
